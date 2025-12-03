@@ -36,5 +36,5 @@ Currently, I’m continuing to build my analytics portfolio while strengthening 
 
 📩 **Connect With Me**
 
-🔗 LinkedIn: https://www.linkedin.com/in/anchita-verma-621b4b204/  
+🔗 LinkedIn:https://www.linkedin.com/in/anchita-verma/  
 📧 Email: **vanchita1001@gmail.com**
