@@ -1,65 +1,40 @@
 <h1 align="center">👋 Hi, I'm Anchita Verma</h1>
 
-<p align="center">
-🚀 Aspiring Business Analyst | 📊 Data & SQL Enthusiast | 💡 Passionate About Insights & Problem Solving  
-</p>
+### 👋 About Me
 
----
+I’m an MBA graduate specialized in Marketing and Business Analytics, passionate about using data to solve business problems and uncover actionable insights.  
+My work and projects reflect hands-on experience with business research, SQL-based data exploration, CRM workflows, and analytical reporting.
 
-### 🔍 About Me
-
-- 🎓 MBA student with interest in **Business Analytics & Data Strategy**
-- 🔧 Hands-on experience working with **SQL, MySQL Workbench & Excel**
-- 📈 Worked on real-world data including **pizza sales analysis**
-- 🌱 Currently learning: **Python for analytics & Power BI/dashboarding**
-- ✨ Goal: Build impactful data-driven portfolio projects and transition into a Business/Data Analyst role
+I enjoy working with real datasets, identifying trends, improving processes, and translating numbers into meaningful business decisions.  
+Currently, I’m continuing to build my analytics portfolio while strengthening my skills in dashboarding and applied data analysis.
 
 ---
 
 ### 🛠 Skills & Tools
 
-| Category | Tools |
-|---------|-------|
-| 💾 Databases | MySQL, SQL Server |
-| 📊 Analytics | Excel, MySQL, Tableau/Power BI (learning) |
-| 🧰 Other | Git, VS Code, CRM Tools |
+#### 📊 Core Analytics Skills
+- Data Interpretation & Insight Generation  
+- KPI Tracking, Reporting, and Trend Analysis  
+- Market Research & Segmentation Analysis  
+- Business Understanding & Analytical Storytelling  
+
+#### 💻 Technical Tools
+- **SQL (MySQL)**
+- **MS Excel (Pivot Tables, Dashboards, Lookup Functions)**
+- **Power BI (Reports, Visuals, Data Modeling)**
+- Microsoft CRM
+- Git & GitHub
+- VS Code
+
+#### 🤝 Business Competencies
+- Competitor Analysis & Benchmarking  
+- Customer Experience & Sales Analytics  
+- Presentation & Communication Skills  
+- Cross-functional Collaboration  
 
 ---
 
-### 📚 Featured Portfolio Projects
+📩 **Connect With Me**
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| 🍕 Pizza Sales SQL Project | Analyzed order trends, revenue insights & behavior patterns through SQL queries | SQL, MySQL, GitHub |
-| 📍 More coming soon… | Working on additional business analytics case studies | Excel, Power BI, SQL |
-
-👉 View all projects here:  
-🔗 https://github.com/anchita1018?tab=repositories
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchita1018&theme=dark" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=anchita1018&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchita1018&layout=compact&theme=dark" height="150" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/anchita-verma-621b4b204/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-</a>
-<a href="mailto:anchitaverma2000.avg@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail">
-</a>
-</p>
-
----
-
-⭐ *Thanks for visiting my profile — more projects loading soon...*
+🔗 LinkedIn: https://www.linkedin.com/in/anchita-verma-621b4b204/  
+📧 Email: **vanchita1001@gmail.com**
